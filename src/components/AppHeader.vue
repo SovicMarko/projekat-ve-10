@@ -2,7 +2,7 @@
   <nav class="navbar navbar-inverse">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="#">Moja Aplikacija</a>
+            <router-link to="/" class="navbar-brand">Moja Aplikacija</router-link>
         </div>
         <ul class="nav navbar-nav">
             <li><router-link to="/">Home</router-link></li>
